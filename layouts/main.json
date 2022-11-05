@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.9167699643332543,
+    "zoomFactor": 0.9070752689797463,
     "windowMask": false
   },
   "objectsGroups": [
@@ -299,8 +299,8 @@
       "name": "GreenSmallTree1",
       "persistentUuid": "1586e1a6-5017-44ac-a92a-82458f6e37a8",
       "width": 0,
-      "x": 1091.5,
-      "y": 580,
+      "x": 1100.5,
+      "y": 595,
       "zOrder": 11,
       "numberProperties": [],
       "stringProperties": [],
